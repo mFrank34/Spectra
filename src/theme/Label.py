@@ -57,6 +57,16 @@ SCR_BLACK = "Dead Pixel — Black"
 SCR_BLEED = "Backlight Bleed   "
 SCR_HINT = "SPACE / CLICK = next   ESC = exit"
 
+# USB Test
+USB_TITLE = "USB Port Test"
+USB_PLUG_MSG = "Please plug a USB device into the port you want to test"
+USB_UNPLUG_MSG = "Device detected — now unplug it"
+USB_DETECTED = "Device detected:"
+USB_REMOVED = "Device removed"
+USB_TIMEOUT = "No device detected in time"
+USB_PASS = "USB Test Passed"
+USB_FAIL = "USB Test Failed"
+
 # Human Prompt
 PROMPT_QUESTION = "Did the test pass?"
 PROMPT_HINT = "Y = Yes   N = No   ESC = Cancel"
