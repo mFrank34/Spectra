@@ -48,6 +48,21 @@ TEST_PASS = "PASS"
 TEST_FAIL = "FAIL"
 TEST_DONE = "Done"
 
+# Screen Test
+SCR_RED = "Dead Pixel — Red  "
+SCR_GREEN = "Dead Pixel — Green"
+SCR_BLUE = "Dead Pixel — Blue "
+SCR_WHITE = "Dead Pixel — White"
+SCR_BLACK = "Dead Pixel — Black"
+SCR_BLEED = "Backlight Bleed   "
+SCR_HINT = "SPACE / CLICK = next   ESC = exit"
+
+# Human Prompt
+PROMPT_QUESTION = "Did the test pass?"
+PROMPT_HINT = "Y = Yes   N = No   ESC = Cancel"
+PROMPT_YES = "Yes"
+PROMPT_NO = "No"
+
 # Devices page
 DEV_TITLE = "Devices"
 DEV_SUBTITLE = "Connected USB and peripheral devices"

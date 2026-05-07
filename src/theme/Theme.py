@@ -8,6 +8,7 @@ ACCENT2 = "#00ff9d"
 TEXT = "#e8edf5"
 MUTED = "#5a6a7a"
 BORDER = "#1e2d3d"
+DANGER = "#f85149"
 
 FONT_TITLE = ("Courier New", 15, "bold")
 FONT_NAV = ("Courier New", 11)
